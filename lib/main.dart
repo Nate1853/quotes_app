@@ -14,7 +14,7 @@ class QuoteList extends StatefulWidget {
 
 class _QuoteListState extends State<QuoteList> {
   List<Quote> quotes = [
-    Quote(author: 'Oscar Wild1', text: 'this is the first quote'),
+    Quote(author: 'Oscar Wild', text: 'this is the first quote'),
     Quote(author: 'Oscar Wild2', text: 'this is the second quote'),
     Quote(author: 'Oscar Wild3', text: 'this is the third quote')];
 
